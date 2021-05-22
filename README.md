@@ -6,6 +6,7 @@ Collection of typescript DIY lessons
 ### Index
 
 - Create a cli app : https://github.com/typescript-school/ts-cli-app
+- Add jest tests : https://github.com/typescript-school/ts-jest
 - Events: https://github.com/typescript-school/ts-events
 - Streams with typescript : https://github.com/typescript-school/ts-cli-app
 
